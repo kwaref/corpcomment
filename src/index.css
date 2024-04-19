@@ -302,8 +302,8 @@ form button span::selection {
 
 /* FEEDBACKS */
 .feedback-list {
-  height: 573px;
-  overflow-y: auto;
+  height: 473px;
+  overflow-y: scroll;
   overflow-x: hidden;
   /* background-color: #F3F6F8; */
   background-color: #f7f8f9;
